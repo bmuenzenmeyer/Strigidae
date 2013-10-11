@@ -1,0 +1,56 @@
+.col1 {
+  width: 5.555555556%;
+  margin-right: 3.03030303%; }
+
+.col2 {
+  width: 14.141414141%;
+  margin-right: 3.03030303%; }
+
+.col3 {
+  width: 22.727272727%;
+  margin-right: 3.03030303%; }
+
+.col4 {
+  width: 31.313131313%;
+  margin-right: 3.03030303%; }
+
+.col5 {
+  width: 39.898989899%;
+  margin-right: 3.03030303%; }
+
+.col6 {
+  width: 48.484848485%;
+  margin-right: 3.03030303%; }
+
+.col7 {
+  width: 57.070707071%;
+  margin-right: 3.03030303%; }
+
+.col8 {
+  width: 65.656565657%;
+  margin-right: 3.03030303%; }
+
+.col9 {
+  width: 74.242424242%;
+  margin-right: 3.03030303%; }
+
+.col10 {
+  width: 82.828282828%;
+  margin-right: 3.03030303%; }
+
+.col11 {
+  width: 91.414141414%;
+  margin-right: 3.03030303%; }
+
+.col12 {
+  width: 100%;
+  margin-right: 3.03030303%;
+  margin-right: 0; }
+
+[class*="col"]{
+  float: left;
+}
+
+[class*="col"].last{
+  margin-right: 0;
+}

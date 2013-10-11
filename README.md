@@ -1,4 +1,4 @@
-noctua
+Strigidae
 =======
 
-A simple bootstrap that gets my projects off the ground
+A simple bootstrap that forms the family for many solutions. This gets my projects off the ground.

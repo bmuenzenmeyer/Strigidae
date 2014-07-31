@@ -28,3 +28,5 @@ A simple bootstrap that forms the family for many solutions. This gets my projec
 * bower
 * patternlab
 * project hub
+* yeoman
+* angular

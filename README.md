@@ -12,7 +12,7 @@ A simple bootstrap that forms the family for many solutions. This gets my projec
 
 ### The Go To Setup
 
-* [package.json]()
+* [package.json](https://github.com/bmuenzenmeyer/Strigidae/blob/master/package.json)
    * HTMLMIN
    * CSSMIN
    * WATCH
@@ -21,7 +21,7 @@ A simple bootstrap that forms the family for many solutions. This gets my projec
    * NODE UNIT
    * UGLIFY
    * JSHINT
-* [gruntfile.js]()
+* [gruntfile.js](https://github.com/bmuenzenmeyer/Strigidae/blob/master/Gruntfile.js)
 
 ### Optional
 

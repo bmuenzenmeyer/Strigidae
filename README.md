@@ -1,7 +1,7 @@
 Strigidae
 =======
 
-A simple bootstrap that forms the family for many solutions. This gets my projects off the ground.
+A simple bootstrap that forms the family for many solutions. This gets my projects off the ground. 
 
 
 ### Codepens to Fork
@@ -10,7 +10,7 @@ A simple bootstrap that forms the family for many solutions. This gets my projec
 * [Body Copy](http://codepen.io/bmuenzenmeyer/pen/qpFzi)
 * [Under the Rug Footer](http://codepen.io/bmuenzenmeyer/pen/kIhdB)
 
-### The Go To Setup
+### My Go-to Front-End Setup
 
 * [package.json](https://github.com/bmuenzenmeyer/Strigidae/blob/master/package.json)
    * HTMLMIN
@@ -23,10 +23,6 @@ A simple bootstrap that forms the family for many solutions. This gets my projec
    * JSHINT
 * [gruntfile.js](https://github.com/bmuenzenmeyer/Strigidae/blob/master/Gruntfile.js)
 
-### Optional
+### Development Considerations
+- [ ] [Performance Checklist](https://github.com/bmuenzenmeyer/Strigidae/blob/master/performance.md)
 
-* bower
-* patternlab
-* project hub
-* yeoman
-* angular

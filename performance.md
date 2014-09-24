@@ -14,6 +14,7 @@
 - [ ] 
 
 #### Go forth, be performant!
-There are many more additional resources out there; the web is a beatuful mosiac. Find more performance inspiration here:
+There are many more resources out there; the web is a beatuful mosiac. Find more performance inspiration here:
 
+* [Set a Performance Budget](http://timkadlec.com/2013/01/setting-a-performance-budget/)
 * [Performance Tooling Today](http://perf-tooling.today/)

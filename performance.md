@@ -11,7 +11,10 @@
 - [ ] Remove unnecessary dependencies, like libraries that are overkill
 
 #### Let's Get Technical!
-- [ ] 
+- [ ] GZIP traffic
+- [ ] Concatenate javascript
+- [ ] Utilize proper caching
+- [ ] Optimize image delivery
 
 #### Go forth, be performant!
 There are many more resources out there; the web is a beatuful mosiac. Find more performance inspiration here:

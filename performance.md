@@ -12,9 +12,13 @@
 
 #### Let's Get Technical!
 - [ ] GZIP traffic
+- [ ] Minify everything
 - [ ] Concatenate javascript
 - [ ] Utilize proper caching
-- [ ] Optimize image delivery
+- [ ] Optimize the delivery of traditional images
+- [ ] Sprite images, consider icon fonts and/or inline as SVG
+- [ ] Prioritize above the fold, critical content and CSS
+- [ ] Lazy load
 
 #### Go forth, be performant!
 There are many more resources out there; the web is a beatuful mosiac. Find more performance inspiration here:

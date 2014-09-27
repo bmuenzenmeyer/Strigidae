@@ -24,5 +24,5 @@ A simple bootstrap that forms the family for many solutions. This gets my projec
 * [gruntfile.js](https://github.com/bmuenzenmeyer/Strigidae/blob/master/Gruntfile.js)
 
 ### Development Considerations
-- [ ] [Performance Checklist](https://github.com/bmuenzenmeyer/Strigidae/blob/master/performance.md)
+- [ ] [Performance Checklist](https://github.com/bmuenzenmeyer/performance)
 
